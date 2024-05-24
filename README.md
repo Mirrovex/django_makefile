@@ -1,7 +1,3 @@
-# Makefile for quick start django project
-
-to use type: make django <project_name> or make project <project_name>
-
 # Makefile for Quick Start Django Project
 
 This Makefile provides a set of commands for quickly start and a Django project.
