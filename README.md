@@ -1,10 +1,10 @@
-# Makefile for Quick Start Django Project
+# Makefile for quick start Django project
 
 This Makefile provides a set of commands for quickly start and a Django project.
 
 ## Usage
 
-To use type: ```bashmake django <project_name>``` or ```bashmake project <project_name>```
+To use type: `make django <project_name>` or `make project <project_name>`
 
 ## Features
 ### This Makefile automates the following tasks:
@@ -33,4 +33,4 @@ To use type: ```bashmake django <project_name>``` or ```bashmake project <projec
 ## Getting Started
 1. Clone the repository.
 2. Navigate to the project folder.
-3. Run make django <project_name> to start a new Django project.
+3. Run `make django <project_name>` to start a new Django project.
