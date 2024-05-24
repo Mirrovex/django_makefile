@@ -5,7 +5,7 @@ to use type: make django <project_name> or make project <project_name>
 ## This makefile:
 * starts new project with <project_name>
 * creates .env (with SECRET_KEY) and .env.example files
-* creates .gitignore file with .env, bin/, lib/, *.sqlite3, \__pycache\__/
+* creates .gitignore file with .env, bin/, lib/, *.sqlite3, \_\_pycache\_\_/
 * creates Makefile in project folder wchich contains
     * make migrations (makemigrations)
     * make migrate (migrate)
